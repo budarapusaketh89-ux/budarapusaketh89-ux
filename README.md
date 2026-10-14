@@ -45,7 +45,7 @@ A conversational application combining NLP, intent classification, and semantic 
 
 ## Connect With Me
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saketh-budarapu/))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/saketh-budarapu/)
 - GitHub: [@budarapusaketh89-ux](https://github.com/budarapusaketh89-ux)
 
 ---
